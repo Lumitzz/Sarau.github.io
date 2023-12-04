@@ -1,0 +1,64 @@
+/* Seções anteriores do seu arquivo styles.css */
+
+/* Estilo para a logo da escola no cabeçalho */
+.school-logo {
+    max-width: 100px; /* Ajuste conforme necessário */
+    margin-bottom: 10px; /* Espaço abaixo da logo */
+}
+
+/* Estilo para as seções de informação */
+.authors-info {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.authors-info h3 {
+    color: #007bff; /* Cor azul */
+}
+
+/* Estilo para a introdução e conclusão */
+/* Estilo para a introdução */
+.intro {
+    background-color: #343a40; /* Cor de fundo escura */
+    color: #ffffff; /* Texto branco */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    margin-top: 40px; /* Adicione esta linha para garantir um espaço acima da introdução */
+}
+
+
+/* Estilo para os tópicos */
+.topic {
+    margin-bottom: 20px;
+}
+
+/* Estilo para as imagens no final */
+.images {
+    margin-top: 40px;
+}
+
+.images h2 {
+    color: #007bff; /* Cor azul */
+}
+
+.images img {
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.images img:hover {
+    transform: scale(1.1);
+}
+
+/* Estilo para o rodapé */
+.footer {
+    margin-top: 40px;
+    background-color: #343a40; /* Cor de fundo escura */
+    color: #ffffff; /* Texto branco */
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 8px;
+}
